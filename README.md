@@ -5,7 +5,7 @@
   A couple of junior developers recently created a WebAPI `JuniorApi` that references `LegacyService`. They aren't very experienced and assume there is room for improvement. You are asked to supervise them.
 
   They also contributed in writting due to consumer class in `Refactoring.ApiConsumer` project. Pretending this project belongs to a greater system, you shall only focus on helping your colleague to improve `RegisterNewCandidateConsumer` class.
-
+  
 ## Tasks
 
 ### Refactor by applying clean code principles e.g. SOLID and design patterns for the following classes
