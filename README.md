@@ -12,7 +12,7 @@
 
 - Please focus on refactoring `Refactoring.LegacyService.CandidateService`;
 - Only if you have extra time, you can refactor `Refactoring.JuniorApi.Controllers.CandidatesController`, or leave your thoughts under **[Candidate-Comments](#Candidate-Comments)**;
-- If above tasks cannot satisfy your appetite, consider refactor `Refactoring.ApiConsumer.Consumers.RegisterNewCandidateConsumer` as well, or leave your thoughts under **[Candidate-Comments](#Candidate-Comments)**.
+- If above tasks cannot satisfy your appetite, considering refactor `Refactoring.ApiConsumer.Consumers.RegisterNewCandidateConsumer` as well, or leave your thoughts under **[Candidate-Comments](#Candidate-Comments)**.
 
 ### Complete at least one test in the following test projects
 
