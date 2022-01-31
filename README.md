@@ -24,7 +24,7 @@
 
 - Everything inside `Refactoring.ApiConsumer.NoChangeInfrastructure` namespace shall **NOT** BE CHNAGE AT ALL
 - `CandidateDataAccess` class and its `AddCandidate` method need to stay **static**
-- Feel free to use you prefered Mock/Assertion libraries in the test projects
+- Feel free to use you prefered Mock/ libraries in the test projects
 
 ## Candidate Comments
 
