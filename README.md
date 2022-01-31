@@ -8,6 +8,8 @@
 
 ## Tasks
 
+Hi there
+
 ### Refactor by applying clean code principles e.g. SOLID and design patterns for the following classes
 
 - Please focus on refactoring `Refactoring.LegacyService.CandidateService`;
