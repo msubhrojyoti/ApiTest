@@ -4,7 +4,7 @@
 
   A couple of junior developers recently created a WebAPI `JuniorApi` that references `LegacyService`. They aren't very experienced and assume there is room for improvement. You are asked to supervise them.
 
-  They also contributed in writting a consumer class in `Refactoring.ApiConsumer` project. Pretending this project belongs to a greater system, you shall only focus on helping your colleague to improve `RegisterNewCandidateConsumer` class.
+  They also contributed in writting a add adadad adadada adadad consumer class in `Refactoring.ApiConsumer` project. Pretending this project belongs to a greater system, you shall only focus on helping your colleague to improve `RegisterNewCandidateConsumer` class.
 
 ## Tasks
 
